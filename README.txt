@@ -1,5 +1,4 @@
 Chenxingyu Su
-20755516 c35su
 openjdk version "11.0.8" 2020-07-14
 Windows 10, intellij gradle Lenovo YOGA 730 13"
 
@@ -25,8 +24,3 @@ Note that in "DOTTED" mode, when the line is too thick, it will seem like a soli
 
 Implemented own feature:
 Undo-Redo: allow users to undo-redo multiple steps. Add functionality under Edit-Undo and Edit-Redo menu items.
-
-Features incompleted:
-Selection Tool
-Preview
-Fill: fill is incorrectly implemented. Fill is set to fill the whole canvas.
